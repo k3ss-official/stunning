@@ -1,0 +1,104 @@
+.
+├── client_agencies
+│   └── every_generation
+│       ├── company_creative
+│       │   ├── eg_front_desk.png
+│       │   ├── eg_inside_2.png
+│       │   ├── eg_inside_chairs.png
+│       │   ├── eg_outside_opposite.png
+│       │   ├── eg_outside.png
+│       │   └── eg_shop_front.png
+│       ├── emma
+│       │   ├── emma_stock_1.jpeg
+│       │   └── emma_stock.png
+│       ├── grace
+│       │   └── grace_stock.png
+│       ├── james
+│       │   └── james_stock.png
+│       ├── leo
+│       │   ├── leo_base.png
+│       │   └── notes.md
+│       ├── maya
+│       │   └── maya_stock.png
+│       ├── model_composites
+│       │   ├── emma_comp.png
+│       │   ├── grace_comp.png
+│       │   ├── james_comp.png
+│       │   ├── leo_comp.png
+│       │   ├── maya_comp.png
+│       │   ├── poppy_comp.png
+│       │   ├── riley_comp.png
+│       │   └── susan_comp.png
+│       ├── poppy
+│       │   └── poppy_stock.png
+│       ├── riley
+│       │   └── riley_stock.png
+│       ├── susan
+│       │   └── susan_stock.png
+│       └── thumbnails
+├── docker-compose.yml
+├── Dockerfile
+├── docs
+│   ├── ARCHITECTURE.md
+│   ├── ERD.png
+│   ├── USER_GUIDE.md
+│   └── WIREFRAMES.md
+├── girl-hero-face.jpg
+├── images
+│   ├── eye-bg.png
+│   ├── face-scan.png
+│   ├── girl-closes-and-opens-eyes.mp4
+│   ├── hero-bg.jpg
+│   ├── hero-bg.png
+│   ├── hero-eyes-closed.png
+│   ├── logo.png
+│   ├── section-bg.webp
+│   ├── stunning-animation
+│   │   ├── eye-opening-animation.mp4
+│   │   ├── eye-opening-demo.mp4
+│   │   ├── frames-for-web
+│   │   │   ├── 00-closed.png
+│   │   │   ├── 01-barely-open.png
+│   │   │   ├── 02-quarter-open.png
+│   │   │   ├── 03-half-open.png
+│   │   │   ├── 04-three-quarter-open.png
+│   │   │   └── 05-fully-open.png
+│   │   └── README.md
+│   └── stunning-eye-animation.tar.gz
+├── index.html
+├── LICENSE
+├── README.md
+├── src
+│   ├── backend
+│   │   ├── ai_models
+│   │   │   └── stable_diffusion.py
+│   │   ├── app.py
+│   │   ├── database.py
+│   │   ├── models.py
+│   │   ├── requirements.txt
+│   │   ├── schemas.py
+│   │   └── tests
+│   │       ├── test_app.py
+│   │       └── test_stable_diffusion.py
+│   └── frontend
+│       ├── package.json
+│       ├── postcss.config.js
+│       ├── src
+│       │   ├── contexts
+│       │   │   └── ClientThemeContext.tsx
+│       │   ├── pages
+│       │   │   ├── _app.tsx
+│       │   │   ├── index.tsx
+│       │   │   ├── lookbook.tsx
+│       │   │   └── studio.tsx
+│       │   ├── styles
+│       │   │   └── globals.css
+│       │   └── utils
+│       │       └── api.ts
+│       ├── tailwind.config.js
+│       └── tsconfig.json
+├── stunning_tree.txt
+├── stunning-site.html
+└── todo.md
+
+28 directories, 74 files
